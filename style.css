@@ -1,9 +1,4 @@
-body{background-color:#3feaa6
-}
-img.Marshall and Lily.jpg { 
-    display: block; 
-    margin: auto;
-    width: 10%;}
+body{background-color:#3feaa6}
 img.home.png {
     display: block;
     margin: auto;
@@ -12,15 +7,21 @@ img.home.png {
 img.Lily_aldrin.jpg {
     display: block;
     margin: auto;
-    width: 10%;}
+    width: 10%;
+}
 img.Marshall.jpg {
     display: block;
     margin: auto;
-    width: 10%;}
+    width: 10%;
+}
+img.Marshall and Lily.jpg {
+    margin: auto;
+    width: 45%;
+    border: 15px solid white;
+    padding: 10px;}
 h1{text-align: center ; font-family: "Georgia", serif} 
 h2{text-align: center ; font-family: "Georgia", serif} 
-p{text-align: center ; font-family: "Georgia", serif} 
-li{text-align: center ; font-family: "Georgia", serif}
+p{text-align: center ; font-family: "Georgia", serif}
 a{ color:#ea473f; text-align: center ; font-family: "Georgia", serif}
 div.lily. floating-box {
      float: left;
