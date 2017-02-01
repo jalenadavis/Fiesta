@@ -19,6 +19,12 @@ img.Marshall and Lily.jpg {
     width: 45%;
     border: 15px solid white;
     padding: 10px;}
+img.bowlingshirt.jpeg
+img.Marshall.jpg {
+    display: block;
+    margin: auto;
+    width: 10%;
+}
 h1{text-align: center ; font-family: "Georgia", serif} 
 h2{text-align: center ; font-family: "Georgia", serif} 
 p{text-align: center ; font-family: "Georgia", serif}
