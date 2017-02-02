@@ -2,28 +2,31 @@ body{background-color:#3feaa6}
 img.home.png {
     display: block;
     margin: auto;
-    width: 10%;
+    height: 75px;
+    width: 75px;
 }
 img.Lily_aldrin.jpg {
     display: block;
     margin: auto;
-    width: 10%;
+    height: 75px;
+    width: 75px;
 }
 img.Marshall.jpg {
     display: block;
     margin: auto;
-    width: 10%;
+    height: 75px;
+    width: 75px;
 }
 img.Marshall and Lily.jpg {
     margin: auto;
     width: 45%;
-    border: 15px solid white;
-    padding: 10px;}
-img.bowlingshirt.jpeg
-img.Marshall.jpg {
+    border: 20px solid black;
+    padding: 20px;
+}
+img.bowlingshirt.jpeg {
     display: block;
     margin: auto;
-    width: 10%;
+    width: 30%;
 }
 h1{text-align: center ; font-family: "Georgia", serif} 
 h2{text-align: center ; font-family: "Georgia", serif} 
