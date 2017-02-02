@@ -1,4 +1,6 @@
 body{background-color:#3feaa6}
+ul{ 
+}
 img.home.png {
     display: block;
     margin: auto;
@@ -18,8 +20,15 @@ img.Marshall.jpg {
     width: 75px;
 }
 img.Marshall and Lily.jpg {
+    display: block;
+    margin: 0 auto;
     border-radius: 100px;
     width: 45%;
+}
+img.fashion.jpg{
+    display: block;
+    margin: 0 auto;
+    width: 30%;
 }
 img.bowlingshirt.jpeg {
     display: block;
