@@ -18,10 +18,8 @@ img.Marshall.jpg {
     width: 75px;
 }
 img.Marshall and Lily.jpg {
-    margin: auto;
+    border-radius: 100px;
     width: 45%;
-    border: 20px solid black;
-    padding: 15px;
 }
 img.bowlingshirt.jpeg {
     display: block;
