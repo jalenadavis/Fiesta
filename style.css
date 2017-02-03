@@ -1,6 +1,8 @@
 body{background-color:#3feaa6}
 ul{ 
 }
+li.menu{
+    display: inline;}
 img.home.png {
     display: block;
     margin: auto;
